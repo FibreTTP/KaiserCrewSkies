@@ -1,5 +1,5 @@
 # Kaisers-Custom-Crew-Skies
-For the crewwww
+Kaiser's resource pack made for The Crew.
 
 Custom skies and item textures available for Forge and **Fabric**!! A repository for any Crew fans that want a Crew-themed Resource Pack!
 
@@ -15,7 +15,7 @@ Download the pack (NOT Source code) from the [Releases Page](https://github.com/
 - Move the pack zip into the folder that just opened.
 - Select the pack in Minecraft.
 
-You can install this resource pack without any mods, but you won't see the custom sky and variable item textures. Use either one of the two mod loaders below to see them.
+You can install this resource pack without any mods, but you won't see the custom sky and variable item textures. Use the Fabric or Forge method below.
 
 ### Forge
 Install [Forge Mod Loader](https://files.minecraftforge.net/net/minecraftforge/forge/) and [OptiFine](https://www.optifine.net/home), then follow the [Resource Pack installation](#resource-pack).
@@ -25,9 +25,11 @@ If you're playing a Forge modpack like The Purge S2 :eyes:, then you already hav
 
 ### Fabric
 
-If you are playing on a Fabric modpack, you most likely have many of these mods already installed.
+If you are playing Vanilla Minecraft, choose this option.
 
-Install [Fabric Loader](https://fabricmc.net/), [FabricSkyBoxes](https://modrinth.com/mod/fabricskyboxes), [FabricSkyBoxes Interop](https://modrinth.com/mod/fabricskyboxes-interop), [CIT Resewn](https://modrinth.com/mod/cit-resewn), and [Fabric API](https://modrinth.com/mod/fabric-api); then follow the [Resource Pack installation](#resource-pack).
+*If you are playing on a Fabric modpack, you most likely have many of these mods already installed.*
+
+Install [Fabric Loader](https://fabricmc.net/). Then install [FabricSkyBoxes](https://modrinth.com/mod/fabricskyboxes), [FabricSkyBoxes Interop](https://modrinth.com/mod/fabricskyboxes-interop), [CIT Resewn](https://modrinth.com/mod/cit-resewn), and [Fabric API](https://modrinth.com/mod/fabric-api); then follow the [Resource Pack installation](#resource-pack).
 
 **ENSURE YOU DOWNLOAD THE CORRECT MOD VERSIONS FOR YOUR MINECRAFT VERSION**.
 
