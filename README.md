@@ -1,21 +1,21 @@
 # Kaisers-Custom-Crew-Skies
 For the crewwww
 
-Custom skies and item textures available for Forge and **Fabric**!! A repository for any Crew fans that want a Crew-themed Resource Pack! The latest version has (in my opinion) the best and most updated textures/sounds.
+Custom skies and item textures available for Forge and **Fabric**!! A repository for any Crew fans that want a Crew-themed Resource Pack!
 
 <img src="/.github/img/smiler_moon.webp" width=30% height=30% alt="Smiler Moon"> <img src="/.github/img/mrmegan_ghast.webp" width=30% height=30% alt="Mr. Megan Ghast"> <img src="/.github/img/item_showcase.webp" width=30% height=30% alt="Custom Texture Showcase">
 
 ## Installation
 
 ### Resource Pack
-Download the pack (NOT Source code) from the [Releases Page](https://github.com/kaisermikael/Kaisers-Custom-Crew-Skies/releases).
+Download the pack (NOT Source code) from the [Releases Page](https://github.com/FibreTTP/KaiserCrewSky/releases).
 - Open Minecraft.
 - Go to Options > Resource Packs.
 - Click "Open resource pack folder".
 - Move the pack zip into the folder that just opened.
 - Select the pack in Minecraft.
 
-You can install this resource pack without any mods, but you won't see the custom sky, moon phases, and variable item textures. Use either one of the two mod loaders below to see them.
+You can install this resource pack without any mods, but you won't see the custom sky and variable item textures. Use either one of the two mod loaders below to see them.
 
 ### Forge
 Install [Forge Mod Loader](https://files.minecraftforge.net/net/minecraftforge/forge/) and [OptiFine](https://www.optifine.net/home), then follow the [Resource Pack installation](#resource-pack).
@@ -45,7 +45,7 @@ Additionally, install [Indium](https://modrinth.com/mod/indium) if you play with
 ---
 
 ## Issues
-If you are experiencing a yike, submit a report in the [Issues](https://github.com/kaisermikael/Kaisers-Custom-Crew-Skies/issues) tab with as much detail as possible.
+If you are experiencing a yike, submit a report in the [Issues](https://github.com/FibreTTP/KaiserCrewSky/issues) tab with as much detail as possible.
 
 ## Changelog
 [Here](/CHANGELOG.md).
